@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+## Who Wants to Be a Millionaire App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Who Wants to Be a Millionaire App
 
 ### Start
 <img src="https://user-images.githubusercontent.com/64141913/137993879-ffaf5a68-a698-489f-8500-a745be78b9f0.jpg" width="100%">
