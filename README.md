@@ -5,19 +5,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Who Wants to Be a Millionaire App
 
 ### Start
-<img src="https://user-images.githubusercontent.com/64141913/137993879-ffaf5a68-a698-489f-8500-a745be78b9f0.jpg" width="90%">
+<img src="https://user-images.githubusercontent.com/64141913/137993879-ffaf5a68-a698-489f-8500-a745be78b9f0.jpg" width="100%">
 
 ### Main
-<img src="https://user-images.githubusercontent.com/64141913/137993971-b9db4efc-e43c-463a-b095-ceb682146811.jpg" width="90%">
+<img src="https://user-images.githubusercontent.com/64141913/137993971-b9db4efc-e43c-463a-b095-ceb682146811.jpg" width="100%">
 
 ### Correct Answer
-<img src="https://user-images.githubusercontent.com/64141913/137994064-9abb7982-b444-4af7-8847-04b38ac26103.jpg" width="90%">
+<img src="https://user-images.githubusercontent.com/64141913/137994064-9abb7982-b444-4af7-8847-04b38ac26103.jpg" width="100%">
 
 ### Wrong Answer
-<img src="https://user-images.githubusercontent.com/64141913/137994152-d77b1a79-59e6-4b39-9686-4cb0397d2aa5.jpg" width="90%">
+<img src="https://user-images.githubusercontent.com/64141913/137994152-d77b1a79-59e6-4b39-9686-4cb0397d2aa5.jpg" width="100%">
 
 ### Earned
-<img src="https://user-images.githubusercontent.com/64141913/137994253-eddd92fc-48e3-42d2-870f-2ce3ea85312b.jpg" width="90%">
+<img src="https://user-images.githubusercontent.com/64141913/137994253-eddd92fc-48e3-42d2-870f-2ce3ea85312b.jpg" width="100%">
 
 ## Available Scripts
 
