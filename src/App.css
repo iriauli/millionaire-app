@@ -102,6 +102,10 @@
   left: 0;
   right: 0;
   margin: auto;
+  color: #f2f3f4;
+  background: linear-gradient(rgba(0, 0, 0, 0), #06011b);
+  padding: 20px;
+  border-radius: 5px;
 }
 
 .bottom {
